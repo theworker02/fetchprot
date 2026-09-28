@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/fetchprot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fetch URLs and prot query parts with stable normalization.",
+  "bin": {
+    "fetchprot": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/fetchprot.git"
+  },
+  "homepage": "https://theworker02.github.io/fetchprot/",
+  "keywords": [
+    "fetch",
+    "prot",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
